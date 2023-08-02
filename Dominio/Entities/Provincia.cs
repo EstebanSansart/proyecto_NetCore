@@ -1,10 +1,9 @@
-namespace Dominio;
+namespace Dominio.Entities;
 
-public class Provincia
+public class Provincia:EntityGenericB
 {
     public int IdRegion { get; set; }
-    public string Descripcion { get; set; }
-    public int IdReg { get; set; }
     public Region Region { get; set; }
+    
     public ICollection<Persona> Personas { get; set; }
 }

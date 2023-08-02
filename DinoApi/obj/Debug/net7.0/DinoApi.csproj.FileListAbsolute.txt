@@ -74,3 +74,7 @@
 /home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/obj/Debug/net7.0/DinoApi.pdb
 /home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/obj/Debug/net7.0/DinoApi.genruntimeconfig.cache
 /home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/obj/Debug/net7.0/ref/DinoApi.dll
+/home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/bin/Debug/net7.0/Humanizer.dll
+/home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/apolm01-002/Desktop/Esteban/proyecto_NetCore/DinoApi/bin/Debug/net7.0/System.CodeDom.dll
